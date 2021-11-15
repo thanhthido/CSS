@@ -1,0 +1,49 @@
+1. Phân tích
+    1. Header
+    2. Slider
+    3. Content
+        1. About
+        2. Tour
+        3. Contact
+        4. Image
+    4. Footer
+2. Dựng base(xây mảng)
+3. Xây dựng từng phần theo phân tích
+4. Hoàn thiện
+
+
+
+
+
+
+
+
+
+
+
+
+Những thành phần thường gặp
+1. Header ( đầu trang ).
+
+2. Navigation ( thanh điều hướng ).gồm chính và phụ.
+1,2 đều nằm ở đầu trang và được cố định.
+
+3. Breadcrumb ( hướng cho mình biết mình đang ở đâu trong web ).
+
+4.Sidebar ( thanh hướng ( khong quan tam content ) )
+Thường nằm bên trái hoặc phải màn hình.
+ví dụ: cột danh mục sản phẩm.
+
+5.Slider ( bất cứ thứ gì trượt dc qua lại )
+vd: thường là hình ảnh.
+
+6. Content.
+*nhận biết: khi nó k phải là các thành phần khác
+*để nói lên nội dung chính của trang
+*thường được đặt ở giữa ( đập vào mắt người dùng ).
+
+7. Banner
+thường là ảnh quảng cáo.
+
+8.Footer
+thường để lại các địa chỉ email,sđt, v.v
