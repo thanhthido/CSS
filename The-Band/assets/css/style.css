@@ -49,6 +49,7 @@ html {
   display: inline-block;
   margin-top: 15px;
   border: none;
+  /* trên safari ip */
   appearance: none;
   -webkit-appearance: none;
 }
