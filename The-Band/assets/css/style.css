@@ -225,8 +225,7 @@ html {
   margin-top: 46px;
   /* 50% chiều ngang chính nó */
   padding-top: 50%;
-  background: url("https://thanhthido.github.io/Learn-CSS/The-Band/assets/img/slider/slider1.jpg")
-    top center / cover no-repeat;
+  background: url("../img/slider/slider1.jpg") top center / cover no-repeat;
 }
 
 #slider .text-content {
@@ -253,6 +252,7 @@ html {
 #slider .text-descripyion {
   font-size: 15px;
   margin-top: 24px;
+  text-shadow: 0 0 1px #000;
 }
 
 #content {
