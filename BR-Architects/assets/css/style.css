@@ -238,10 +238,6 @@ h3 {
 
 /* Tablet & Mobile */
 @media (max-width: 63.9375em) {
-}
-
-/* Tablet: 740 <= width <1024px     740px ~ 612px*/
-@media (min-width: 38.25em) and (max-width: 63.9375em) {
   #content .btn-content {
     padding: 12px 0;
   }
@@ -249,6 +245,10 @@ h3 {
   #content .btn-form {
     padding: 12px 16px;
   }
+}
+
+/* Tablet: 740 <= width <1024px     740px ~ 612px*/
+@media (min-width: 38.25em) and (max-width: 63.9375em) {
 }
 
 /* Mobile width < 740px (611px) */
