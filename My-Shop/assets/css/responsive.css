@@ -113,6 +113,10 @@
     display: none;
   }
 
+  .header__search-history {
+    padding: 4px 20px;
+  }
+
   @keyframes mobileSearchSideIn {
     from {
       opacity: 0;
