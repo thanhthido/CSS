@@ -1447,3 +1447,11 @@ i.home-product-item__like-icon-fill {
   text-align: center;
   color: #737373;
 }
+
+.footer__text a {
+  color: #76c9bd;
+}
+
+.footer__text a:hover {
+  color: var(--primary-color);
+}
