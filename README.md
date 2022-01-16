@@ -1,13 +1,13 @@
 # Learn-CSS
-    BEM: https://thanhthido.github.io/Learn-CSS/BEM/
-    
-    BR-Architects: https://thanhthido.github.io/Learn-CSS/BR-Architects/
+BEM: https://thanhthido.github.io/Learn-CSS/BEM/
 
-    Le-Catering: https://thanhthido.github.io/Learn-CSS/Le-Catering/
+BR-Architects: https://thanhthido.github.io/Learn-CSS/BR-Architects/
 
-    My-Shop: https://thanhthido.github.io/Learn-CSS/My-Shop/
+Le-Catering: https://thanhthido.github.io/Learn-CSS/Le-Catering/
 
-    Study-HTML: https://thanhthido.github.io/Learn-CSS/Study-HTML/
+My-Shop: https://thanhthido.github.io/Learn-CSS/My-Shop/
 
-    The-Band: https://thanhthido.github.io/Learn-CSS/The-Band/
+Study-HTML: https://thanhthido.github.io/Learn-CSS/Study-HTML/
+
+The-Band: https://thanhthido.github.io/Learn-CSS/The-Band/
 
