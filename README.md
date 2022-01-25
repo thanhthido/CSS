@@ -12,6 +12,6 @@ Le-Catering: https://thanhthido.github.io/CSS/Le-Catering/
 
 My-Shop: https://thanhthido.github.io/CSS/My-Shop/
 
-Study-HTML: https://thanhthido.github.io/CSS/Study-HTML/
+Flexbox: https://thanhthido.github.io/CSS/Flexbox/
 
 The-Band: https://thanhthido.github.io/CSS/The-Band/
