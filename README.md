@@ -1,6 +1,6 @@
 # Learn-CSS
 
-BEM-1: https://thanhthido.github.io/Learn-CSS/BEM/
+BEM-1: https://thanhthido.github.io/Learn-CSS/BEM-1/
 
 BEM-2: https://thanhthido.github.io/Learn-CSS/BEM-2/
 
