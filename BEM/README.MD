@@ -51,3 +51,8 @@
     -   Disable: Arrow, no effect
 -   Làm message
 -   Làm một thành phần trên website
+
+## Trường hợp block lồng block
+
+-   Block con là thành phần dùng chung
+-   Block con chứa nhiều element
